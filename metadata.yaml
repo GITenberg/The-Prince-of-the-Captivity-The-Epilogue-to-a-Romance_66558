@@ -1,0 +1,27 @@
+_repo: The-Prince-of-the-Captivity-The-Epilogue-to-a-Romance_66558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grier, Sydney C.
+    alias: Gregg, Hilda Caroline
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '26562'
+    url: http://www.gutenberg.org/2009/agents/26562
+    wikipedia: https://en.wikipedia.org/wiki/Hilda_Gregg
+description: ''
+gutenberg_issued: '2021-10-18'
+identifiers:
+  gutenberg: '66558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Balkan Series, 4.
+subjects:
+- !lcc 'PR'
+- !lcsh 'Political fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- GITenberg
+title: 'The Prince of the Captivity: The Epilogue to a Romance'
+url: http://www.gutenberg.org/ebooks/66558
