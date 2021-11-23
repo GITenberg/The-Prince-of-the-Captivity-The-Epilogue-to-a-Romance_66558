@@ -1,5 +1,8 @@
 _repo: The-Prince-of-the-Captivity-The-Epilogue-to-a-Romance_66558
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66558-h/images/cover.jpg
 creator:
   author:
     agent_name: Grier, Sydney C.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26562
     wikipedia: https://en.wikipedia.org/wiki/Hilda_Gregg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66558#The-Prince-of-the-Captivity-The-Epilogue-to-a-Romance
 gutenberg_issued: '2021-10-18'
 identifiers:
   gutenberg: '66558'
